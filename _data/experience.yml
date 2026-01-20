@@ -3,15 +3,35 @@
 - company: Big C Supercenter Public Co., Ltd.
   position: Senior Backend API Developer
   duration: Sep, 2021 &mdash; Present
-  summary: <ul><li>Developing a web-based Idea Tracking Management using Next.js and Java Spring Boot</li><li>Developing a web-based Healthcare system using Next.js and Java Spring Boot</li><li>Implementing the web frontend with Next.js</li><li>Collaborating with teams to build products and implementing solutions using Next.js and Java Spring Boot</li></ul>
+  summary: >
+    <ul>
+      <li>Developed and maintained web-based enterprise systems, including Idea Tracking Management and Healthcare platforms, using Next.js and Java Spring Boot</li>
+      <li>Worked with cross-functional teams to develop a Point Engine and Redemption system supporting earning and redeeming points</li>
+      <li>Improved and refactored legacy projects to enhance system performance, stability, and maintainability</li>
+      <li>Worked closely with team members to design and implement solutions aligned with business requirements</li>
+      <li>Participated in sprint planning, including task breakdown, estimation, and sprint scope alignment</li>
+      <li>Reviewed code and supported teammates by providing technical feedback and guidance</li>
+    </ul>
 
 - company: 1Moby Co., Ltd.
-  position: software developer
-  duration:  Nov, 2021 &mdash; Aug, 2024
-  summary: <ul><li>Developing a web-based CMS for LINE Official Accounts using Next.js and Nest.js</li><li>Utilizing the LINE Messaging API and LINE LIFF</li><li>Implementing the web frontend with Next.js</li><li>Designing databases and implementing new features</li><li>Collaborating with teams to build products focused on comparing product prices between stores, implementing solutions using Next.js and Nest.js</li></ul>
+  position: Software Developer (Full-Stack / Backend-focused)
+  duration: Nov, 2021 &mdash; Aug, 2024
+  summary: >
+    <ul>
+      <li>Developed and maintained a web-based CMS for LINE Official Accounts using Next.js and NestJS</li>
+      <li>Integrated LINE Messaging API and LINE LIFF to support messaging and user interaction features</li>
+      <li>Designed and implemented backend APIs, database structures, and new product features</li>
+      <li>Developed frontend applications using Next.js and integrated them with backend services</li>
+      <li>Worked with team members to build product features for price comparison platforms using Next.js and NestJS</li>
+    </ul>
 
-- company: G-ABLE Pub Co., Ltd.
+- company: G-ABLE Public Co., Ltd.
   position: Application Developer
-  duration:   Nov, 2019  &mdash; Apr, 2021
-  summary: <ul><li>Developing products focused on a comprehensive big data analytics platform, implementing solutions using Angular and Java Spring Boot</li><li>Improved the front-end of two main modules using Angular, HTML, and CSS</li><li>Integrating APIs between Angular and Java Spring Boot</li><li>Creating data visualization features using Chart.js</li></ul>
-
+  duration: Nov, 2019 &mdash; Apr, 2021
+  summary: >
+    <ul>
+      <li>Developed features for a big data analytics platform using Angular and Java Spring Boot</li>
+      <li>Improved the frontend of two core modules using Angular, HTML, and CSS</li>
+      <li>Integrated APIs between Angular frontend and Java Spring Boot backend</li>
+      <li>Implemented data visualization features using Chart.js to support analytics and reporting</li>
+    </ul>

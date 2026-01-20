@@ -1,7 +1,16 @@
 # Skills
-- skill: Programming Language & Scripts
-  description: JavaScript, TypeScript, Python, Java, C#, PHP, Ruby, HTML, CSS, SQL, Bash
+
+- skill: Backend & Programming
+  description: Java, JavaScript, TypeScript, Node.js (NestJS), Java Spring Boot, RESTful API Development
+
+- skill: Frontend
+  description: Next.js (React + TypeScript), Angular, HTML, CSS
+
 - skill: Databases
-  description: MySQL, PostgreSQL, MongoDB, Neo4j, Redis
-- skill: OTHERS
-  description: Version Control, Basic Linux Command, Docker, Postman, Swagger, ChatGPT, Microsoft Copilot, Cursor AI
+  description: MySQL, PostgreSQL, MongoDB, Neo4j, Redis, Database Design & Query Optimization
+
+- skill: DevOps & Tools
+  description: Docker, Docker Compose, Git, Postman, Swagger, Basic Linux, Environment Configuration (dev / uat / prod)
+
+- skill: Others
+  description: API Documentation, Authentication & Authorization (JWT, Role-Based Access Control), System Design (Foundational), AI-assisted Development (ChatGPT, Copilot)
